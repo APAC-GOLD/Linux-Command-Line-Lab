@@ -1,4 +1,4 @@
-# Linux Command Line (EN)
+# Linux Command Line (MacOS, Linux or Windows)
 
 Objectives
 Run commands to gain knowledge of your current system and current session
